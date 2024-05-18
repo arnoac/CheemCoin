@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Tokenomics
+  link: /tokenomics/
+- name: Roadmap
+  link: /roadmap/
+- name: How to Buy
+  link: /how-to-buy/
+- name: Contact
+  link: /contact/
+- name: Community
+  link: /community/
