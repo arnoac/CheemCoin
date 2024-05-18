@@ -7,7 +7,7 @@ title: CheemsCoin
 
 The future of MemeFi. Earn, trade, and laugh with CheemsCoin (CHEEMS) on the Solana blockchain.
 
-![CheemsCoin](path_to_your_logo_image)
+![CheemsCoin](assets/images/cheemschain.jpg)
 
 ## Features
 
