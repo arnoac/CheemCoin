@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CheemsChain
-email: support@cheemschain.com
+title: MemeFi Galaxy
+email: support@memefigalaxy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the official website of CheemsChain.
+  MemeFi Galaxy aims to combine the viral culture of memes with the innovative potential of decentralized finance (DeFi). By creating a playful, engaging, and rewarding ecosystem, MemeFi Galaxy seeks to make finance fun and accessible for everyone. Users can trade, stake, and earn rewards while enjoying the best of meme culture
 baseurl: "/cheemscoin-website" # the subpath of your site, e.g. /blog
 url: "https://arnoac.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: CheemsChain
-github_username: cheemschain
+twitter_username: MemeFi_Galaxy
+github_username: MemeFi_Galaxy
 
 # Build settings
 theme: minima
