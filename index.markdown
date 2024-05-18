@@ -1,19 +1,19 @@
 ---
 layout: home
-title: CheemsCoin
+title: MemeFi Galaxy
 ---
 
-# Welcome to CheemsCoin
+# Welcome to MemeFi Galaxy
 
-The future of MemeFi. Earn, trade, and laugh with CheemsCoin (CHEEMS) on the Solana blockchain.
+The future of MemeFi. Earn, trade, and laugh with MemeFi Galaxy (MEFI) on the Solana blockchain.
 
-![CheemsCoin](assets/images/cheemschain.jpg)
+![MemeFi Galaxy](assets/images/memefi.jpg)
 
 ## Features
 
-- **CheemsCoin (CHEEMS):** Our native meme coin.
+- **MemeFi Galaxy (MEFI):** Our native meme coin.
 - **Meme NFTs:** Buy, sell, and trade unique meme NFTs.
-- **Meme Farms:** Stake CHEEMS and earn rewards.
+- **Meme Farms:** Stake MEFI and earn rewards.
 - **Community Governance:** Participate in governance decisions.
 
 [Join Our Community](link_to_discord_or_telegram)
