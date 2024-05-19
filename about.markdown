@@ -4,6 +4,6 @@ title: About Us
 permalink: /about/
 ---
 
-# About CheemsCoin
+# About MemeFi Galaxy
 
-CheemsCoin is an innovative project on the Solana blockchain that brings the fun and viral nature of memes into the world of decentralized finance (DeFi).
+MemeFi Galaxy is an innovative project on the Binance Smart Chain that brings the fun and viral nature of memes into the world of decentralized finance (DeFi).
