@@ -5,7 +5,7 @@ title: MemeFi Galaxy
 
 # Welcome to MemeFi Galaxy
 
-The future of MemeFi. Earn, trade, and laugh with MemeFi Galaxy (MEFI) on the Solana blockchain.
+The future of MemeFi. Earn, trade, and laugh with MemeFi Galaxy (MEFI) on the Binance Smart Chain.
 
 ![MemeFi Galaxy](assets/images/memefi.jpg)
 
