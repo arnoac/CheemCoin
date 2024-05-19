@@ -25,3 +25,13 @@
     max-width: 100%;
     border: none;
   }
+
+  /* Style the logo as a circle and adjust its size */
+.logo {
+    width: 300px; /* Adjust the width as needed */
+    height: 300; /* Adjust the height as needed */
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+  }

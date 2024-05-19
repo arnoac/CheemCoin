@@ -3,11 +3,9 @@ layout: home
 title: MemeFi Galaxy
 ---
 
-# Welcome to MemeFi Galaxy
-
 The future of MemeFi. Earn, trade, and laugh with MemeFi Galaxy (MEFI) on the Binance Smart Chain.
 
-![MemeFi Galaxy](assets/images/memefi.jpg)
+![MemeFi Galaxy](assets/images/memefi.jpg){:class="logo"}
 
 ## Features
 
@@ -29,7 +27,7 @@ The future of MemeFi. Earn, trade, and laugh with MemeFi Galaxy (MEFI) on the Bi
 </div>
 
 <iframe
-  src="https://pancakeswap.finance/swap?outputCurrency=YOUR_TOKEN_ADDRESS"
+  src="https://pancakeswap.finance/swap?outputCurrency=0xf6C3c21b36d90a659b1BF07083Ae5E26b92Ef044"
   width="100%"
   height="7500px"
   style="max-width: 750px; margin: 0 auto; display: block;"
