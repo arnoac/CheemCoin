@@ -6,7 +6,7 @@ permalink: /tokenomics/
 
 # Tokenomics
 
-- **Total Supply:** 1,000,000,000 MEFI
+- **Total Supply:** 1,000,000 MEFI
 - **Distribution:**
   - 40% Community Rewards
   - 30% Liquidity Pool
