@@ -17,3 +17,22 @@ The future of MemeFi. Earn, trade, and laugh with MemeFi Galaxy (MEFI) on the Bi
 - **Community Governance:** Participate in governance decisions.
 
 [Join Our Community](link_to_discord_or_telegram)
+
+## Trade MEFI
+
+<button onclick="connectWallet()">Connect Wallet</button>
+<button onclick="disconnectWallet()">Disconnect Wallet</button>
+
+<div>
+  <p>Wallet Address: <span id="wallet-address"></span></p>
+  <p>Balance: <span id="wallet-balance"></span></p>
+</div>
+
+<iframe
+  src="https://pancakeswap.finance/swap?outputCurrency=Y0xf6C3c21b36d90a659b1BF07083Ae5E26b92Ef044"
+  width="100%"
+  height="660px"
+  allow="clipboard-write"
+  frameBorder="0"
+  title="PancakeSwap"
+></iframe>
