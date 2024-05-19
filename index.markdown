@@ -31,7 +31,8 @@ The future of MemeFi. Earn, trade, and laugh with MemeFi Galaxy (MEFI) on the Bi
 <iframe
   src="https://pancakeswap.finance/swap?outputCurrency=Y0xf6C3c21b36d90a659b1BF07083Ae5E26b92Ef044"
   width="100%"
-  height="660px"
+  height="400px"
+  style="max-width: 500px; margin: 0 auto; display: block;"
   allow="clipboard-write"
   frameBorder="0"
   title="PancakeSwap"
