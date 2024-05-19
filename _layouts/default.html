@@ -3,10 +3,13 @@ layout: minima
 ---
 
 {% include head.html %}
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
   <body>
     {% include header.html %}
+    <main class="page-content" aria-label="Content"></main>
     {{ content }}
+    </main>
     {% include footer.html %}
     <script src="{{ '/assets/js/wallet.js' | relative_url }}"></script>
     <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>

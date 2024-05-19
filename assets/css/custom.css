@@ -1,0 +1,27 @@
+/* assets/css/custom.css */
+
+.page-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  iframe {
+    max-width: 100%;
+    border: none;
+  }
